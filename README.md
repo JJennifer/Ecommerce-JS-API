@@ -59,4 +59,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
   ## Walkthrough
 
-  [Jennifer's walkthrough video]()
+  [Jennifer's walkthrough video](https://drive.google.com/file/d/1NC1pPAKuAVHvwjbnIxZD-wYa3BzJ1Rym/view?usp=sharing)
