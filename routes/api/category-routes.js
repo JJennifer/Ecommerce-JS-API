@@ -8,6 +8,7 @@ router.get('/',async (req, res) => {
     // categoryData comes from category-seeds.js
     const categoryData = await Category.findAll({
       // model:product comes from folder models and file Product.js line 6
+      // join
       include: [{model:Product}]
     })
     res.status(200).json(categoryData)
